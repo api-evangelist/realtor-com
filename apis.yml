@@ -1,0 +1,84 @@
+aid: realtor-com
+name: Realtor.com
+description: >-
+  Realtor.com is a real estate listings website operated by Move, Inc., a
+  subsidiary of News Corp, headquartered in Santa Clara, California. The
+  platform is the official site of the National Association of REALTORS
+  (NAR) under a long-term operating agreement and is one of the largest U.S.
+  property search portals, serving home buyers, sellers, renters, and real
+  estate professionals. Realtor.com aggregates for-sale, for-rent, and
+  off-market listings sourced primarily from Multiple Listing Services (MLSs)
+  via Move's listings distribution subsidiary ListHub, and surfaces them
+  through consumer web and mobile apps alongside neighborhood, school,
+  mortgage, and market data. The professional side of the business sells
+  lead-generation and marketing products such as Connections Plus,
+  ReadyConnect Concierge, and Market VIP to agents and brokers, while
+  ListHub provides MLS-to-portal syndication, broker reporting, and listing
+  feed management. Adjacent Move properties include Doorsteps, Moving.com,
+  and SeniorHousingNet, and the company publishes a public economic
+  research arm at realtor.com/research that releases monthly housing market
+  reports and downloadable historical datasets. Realtor.com does not
+  publish a first-party public developer API, OpenAPI specification, or SDK;
+  programmatic access to listing data is gated through MLS membership and
+  ListHub's broker/vendor agreements, while the only widely available
+  HTTP APIs branded as Realtor.com are unofficial third-party scrapers
+  hosted on RapidAPI and Apify.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Real Estate
+  - Property Listings
+  - MLS
+  - Housing
+  - Home Search
+  - Rentals
+  - Real Estate Agents
+  - Brokers
+  - Lead Generation
+  - Listings Syndication
+  - Housing Market Data
+  - News Corp
+  - Move Inc
+url: https://raw.githubusercontent.com/api-evangelist/realtor-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.realtor.com
+  - type: About
+    url: https://www.realtor.com/about/
+  - type: Parent
+    url: https://www.move.com
+  - type: ListHub
+    url: https://www.listhub.com
+  - type: Research
+    url: https://www.realtor.com/research/
+  - type: ResearchData
+    url: https://www.realtor.com/research/data/
+  - type: AgentProducts
+    url: https://marketing.realtor.com
+  - type: ConnectionsPlus
+    url: https://marketing.realtor.com/connections-plus
+  - type: Newsroom
+    url: https://www.realtor.com/news/
+  - type: Careers
+    url: https://www.realtor.com/careers/
+  - type: Contact
+    url: https://www.realtor.com/about/contact/
+  - type: GitHub
+    url: https://github.com/realtor
+  - type: Twitter
+    url: https://twitter.com/realtordotcom
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/realtor-com
+  - type: Facebook
+    url: https://www.facebook.com/realtordotcom
+  - type: YouTube
+    url: https://www.youtube.com/user/realtordotcom
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
