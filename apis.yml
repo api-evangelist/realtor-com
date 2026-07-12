@@ -47,6 +47,10 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/realtor-com-domain-security.yml
+  - url: https://www.realtor.com/news/feed/
+    type: Blog
   - type: Website
     url: https://www.realtor.com
   - type: About
