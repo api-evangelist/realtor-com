@@ -39,6 +39,20 @@ position: Provider
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/realtor-com.png
 tags:
+  - Real-Estate
+  - Property Listings
+  - MLS
+  - Housing
+  - Home Search
+  - Rentals
+  - Real Estate Agents
+  - Brokers
+  - Lead Generation
+  - Listings Syndication
+  - Housing Market Data
+  - News Corp
+  - Move Inc
+tags_raw:
   - Real Estate
   - Property Listings
   - MLS
