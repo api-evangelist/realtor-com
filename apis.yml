@@ -50,7 +50,7 @@ position: Producing
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/realtor-com.png
 tags:
-  - Real-Estate
+  - Real Estate
   - Property Listings
   - MLS
   - Housing
@@ -63,6 +63,7 @@ tags:
   - Housing Market Data
   - News Corp
   - Move Inc
+  - CRM
 tags_raw:
   - Real Estate
   - Property Listings
@@ -77,6 +78,8 @@ tags_raw:
   - Housing Market Data
   - News Corp
   - Move Inc
+  - Real-Estate
+  - CRM
 url: https://raw.githubusercontent.com/api-evangelist/realtor-com/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
@@ -119,6 +122,11 @@ common:
     url: https://www.facebook.com/realtordotcom
   - type: YouTube
     url: https://www.youtube.com/user/realtordotcom
+  - type: Website
+    url: https://realtor.com
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Delivery
+- Agents
