@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "realtor-com",
+    "captured_at": "2026-10-11T191747",
+    "source_url": "https://www.realtor.com",
+    "source_type": "Website",
+    "file": "realtor-com-2026-10-11T191747.png",
+    "bytes": 50250,
+    "capture": "playwright-local"
+  }
+]
