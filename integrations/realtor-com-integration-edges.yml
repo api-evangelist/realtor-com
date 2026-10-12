@@ -1,0 +1,20 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/realtor-com/integrations
+- https://zapier.com/apps/realtor/integrations
+- https://n8n.io/integrations/realtor-com/
+- https://n8n.io/integrations/realtor/
+- https://composio.dev/toolkits/realtor-com
+- https://monid.ai/tools/realtor-com
+checked:
+- https://composio.dev/toolkits/realtor-com
+- https://monid.ai/tools/realtor-com
+- https://n8n.io/integrations/realtor-com/
+- https://n8n.io/integrations/realtor/
+- https://zapier.com/apps/realtor-com/integrations
+- https://zapier.com/apps/realtor/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
